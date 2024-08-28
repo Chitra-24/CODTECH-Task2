@@ -26,7 +26,7 @@ Build a clickable prototype to simulate the user experience and gather feedback 
 
 Technologies Used
 
-The backend is developed with Java 8, using Spring Boot with Spring MVC, Spring JPA, and Spring Security as dependencies.
+The backend is developed with Java 8, using Spring Boot with Spring MVC, Spring JPA, and Spring Security as dependencies, MySQL.
 
 Key Insights
 
